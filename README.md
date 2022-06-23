@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/douglasshibata">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasshibata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasshibata&layout=compact&langs_count=24&theme=dark"/>
+  <a href="https://github.com/wesleyAlvesDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyAlvesDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyAlvesDev&layout=compact&langs_count=24&theme=dark"/>
 </div>
   
 ### How to reach me:
@@ -26,3 +26,4 @@ Here are some ideas to get you started:
  <div>
   <a href="https://www.linkedin.com/in/wesley-alves-09b031170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  </div>
+
